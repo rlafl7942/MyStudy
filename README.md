@@ -3,4 +3,4 @@
 
 youtube clonecoding & shoppingmall clonecoding
 
-참고 : youtube 드림코딩 by 앨리
+참고 : youtube 드림코딩 by 엘리
